@@ -23,7 +23,7 @@ long = head['longitudeE7']
 
 ## getting the number of times gone to each place & their formatted address ## 
 
-api_key = 'AIzaSyBc-EYEQItR7_r04TjfbYj7tmO5rZP-aLY'
+api_key = ''
 url = ''
 
 places = {}
