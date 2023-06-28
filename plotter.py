@@ -37,7 +37,7 @@ m.save("map.html")
 
 ### PART 2: LISTING THE NAMES OF LIKELY BUSINESSES AND ADDRESSES ###
 
-api_key = 'AIzaSyBc-EYEQItR7_r04TjfbYj7tmO5rZP-aLY'
+api_key = ''
 url = ''
 
 smallhead = df_clean.head(10)
