@@ -5,6 +5,7 @@ import googlemaps
 import requests
 
 ### COMBINING THE TWO PARTS OF PLOTTER ###
+### ADD GOOGLE FILE AS RECORDS.JSON ###
 
 ## loading in the file and cleaning the data ##
 
